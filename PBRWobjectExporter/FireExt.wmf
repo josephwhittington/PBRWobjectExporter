@@ -1,0 +1,15 @@
+# Whittington Material File 
+# Version Rc0.1
+
+#BEGIN
+#diffuse
+DefaultMaterial_Base_Color.dds
+#metallic
+DefaultMaterial_Metallic.dds
+#roughness
+DefaultMaterial_Roughness.dds
+#normal
+DefaultMaterial_Normal.dds
+#ao
+DefaultMaterial_Mixed_AO.dds
+#END
